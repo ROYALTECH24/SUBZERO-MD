@@ -9,8 +9,8 @@
     "restart": "pm2 restart SUBZERO-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "6.6.0",
-    "@adiwajshing/keyed-db": "^0.2.4",
+    "gifted-baileys": "^1.5.6",
+    "@adiwajshing/keyed-db": "latest",
     "@dark-yasiya/yt-dl.js": "latest",
     "@dark-yasiya/scrap": "1.0.1",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
